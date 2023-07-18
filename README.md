@@ -1,4 +1,4 @@
-# Practice: Multi-armed Bandit Problem
+# RL Practice: Multi-armed Bandit Problem
 
 The multi-armed bandit problem is a slot machien with n arms. Each arm has its own rigged probability of success. The player could randomly choose the arms to give him/her a stochastic reward for success (p.s. in this sample, the reward is just only either 1 for success or 0 for failure). The goal of this problem is to pull the arms one by one in the range of episodes such that the player can maximize the total reward.
 
