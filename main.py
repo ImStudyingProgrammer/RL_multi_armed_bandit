@@ -68,7 +68,7 @@ output_dir = os.path.join(os.getcwd(), "figs")
 # X: Step; Y: Average Reward
 avg_rewards = avg_rewards/np.float16(times)
 plt.plot(avg_rewards)
-plt.xlabel("Step")
+plt.xlabel("Steps")
 plt.ylabel("Average Reward")
 plt.grid()
 plt.xlim([1, episode])

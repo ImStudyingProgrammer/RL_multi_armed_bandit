@@ -12,3 +12,9 @@ We take the epsilon-greedy policy to play the multi-armed bandit. The agent repr
 ## Reference
 * ankonzoid. Solving the Multi-armed Bandit Problem, github, 2020, ref: https://github.com/ankonzoid/LearningX/tree/master/classical_RL/multiarmed_bandit
 * Richard S. Sutton and Andrew G. Barto. Reinforcement Learning: An Introduction, MIT Press, 2018.
+
+## Conrtibutor
+* Author: HaoYing Cheng
+* Alias: Maskertim
+* Email: d11921b14@g.ntu.edu.tw
+* Affiliation: National Taiwan University (NTU)
